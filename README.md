@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mansakr
-- 👀 I’m interested in Fullstack
+- 👀 I’m interested in Fullstack development and project management
 - 🌱 I’m currently learning Laravel
 - 📫 Reach at mansa.kr@gmail.com
 
